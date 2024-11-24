@@ -1,4 +1,4 @@
-##Hi there 👋 I'm Abhinay
+## Hi there 👋 I'm Abhinay
 I'm a passionate software engineering enthusiast currently pursuing my Master of Science in Software Engineering Systems at Northeastern University. My academic journey has exposed me to an array of subjects, including object-oriented design, web design, user experience, data structures, and database management, giving me a solid technical foundation.
 
 My true passion lies in harnessing these skills to create real-time, captivating applications. I'm excited about the potential of technology to engage and mesmerize users.In addition, what truly ignites my passion is the opportunity to leverage my knowledge, especially in AI, to make a meaningful impact in healthcare, with a special focus on oncology. I'm deeply interested in exploring the possibilities of AI to advance medical diagnostics and treatment in the fight against cancer.
