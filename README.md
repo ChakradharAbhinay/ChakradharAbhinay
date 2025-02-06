@@ -13,6 +13,6 @@ My true passion lies in harnessing these skills to create real-time, captivating
 
 🎯 Beyond the code: 🤝 Soft Skills: People Management | 🗣️ Strong Communication | 🚀 Leadership | 👥 Team Work | ⏰ Time Management
 
-🌟 I'm not just a code warrior. I'm a real person too! When I'm not crafting tech solutions, you'll find me: 🌍 Exploring the world | 🍔 Food Blogging | 🏸 Playing Squash | 🤝 Volunteering | 📚 Reading about how the mind works.
+🌟 I'm not just a code warrior. I'm a real person too! When I'm not crafting tech solutions, you'll find me: 🌍 Exploring the world | 🍔 Food Blogging | 🏸 Playing Badminton | 🤝 Volunteering | 📚 Reading about how the mind works.
 
 🤝 Let's connect, collaborate, and explore the limitless possibilities of technology together. Feel free to reach out! Email: chakradhar.abhinay@gmail.com
